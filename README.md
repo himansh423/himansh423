@@ -3,7 +3,7 @@
 🚀 Aspiring Programmer & Developer | Tech Enthusiast | Lifelong Learner
 
 💻 Currently honing my skills in:
-   - Front-end Development: HTML, CSS
+   - Front-end Development: HTML, CSS, JavaScript
    - Back-end Development: C,C++
    - Version Control: Git, GitHub
 
