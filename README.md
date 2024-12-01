@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
 <p align="left"> <a href="https://twitter.com/himansh423" target="blank"><img src="https://img.shields.io/twitter/follow/himansh423?logo=twitter&style=for-the-badge" alt="himansh423" /></a> </p>
 
-- 🌱 I’m currently learning **Java and Pyhton**
+- 🌱 I’m currently learning **Go Language**
 
 - 💬 Ask me about **React,JavaScript,Node.js,Express.js,MongoD, Next.js,HTML,CSS etc.**
 
